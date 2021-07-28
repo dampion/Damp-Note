@@ -73,9 +73,6 @@ cypress/screenshots
 
 # exception
 .env*
-cypress/*
-cypress.json
-package-lock.json
 final/*
 solutions/*
 cover.png
